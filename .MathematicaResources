@@ -1,0 +1,8 @@
+Resources[
+    Version[1],
+    ExecutionBuildCommand["<<SGD`"],
+    Paclet[
+        PacletFolder["SGD"],
+        FunctionPaclet[False]
+    ]
+]
